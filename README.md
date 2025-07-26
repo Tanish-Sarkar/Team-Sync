@@ -19,7 +19,7 @@
 |----------------|--------------|
 | **Frontend**    | React.js, Tailwind CSS, Shadcn UI |
 | **Backend**     | Node.js, MongoDB |
-| **Auth **       |Google-Auth |
+| **Auth**       |Google-Auth |
 
 ---
 
